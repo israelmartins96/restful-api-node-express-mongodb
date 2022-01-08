@@ -18,4 +18,7 @@
   description: 'Test post description should be here.',
   date: 2021-01-23T22:25:03.310Z,
   __v: 0 },
-{"_id":"6017643d70a0c936e407f83c","title":"A New Post To Test","description":"Test post description should be here.","date":"2021-02-01T02:15:25.994Z","__v":0}
+{"_id":"6017643d70a0c936e407f83c","title":"A New Post To Test","description":"Test post description should be here.","date":"2021-02-01T02:15:25.994Z","__v":0},
+{"_id":"61d91a07a57b1c08dc864e21","title":"My First Post","description":"This is the first post I ever created in the year 2022.","date":"2022-01-08T04:58:47.683Z","__v":0},
+{"_id":"61d91a45a6bf831518653364","title":"My Second","description":"This is the second post I ever created in the year 2022.","date":"2022-01-08T04:59:49.748Z","__v":0},
+{"_id":"61d91a7b7ceb133158e7b186","title":"I Don't Like","description":"This is the new post I never liked but created in the year 2022.","date":"2022-01-08T05:00:43.632Z","__v":0}
